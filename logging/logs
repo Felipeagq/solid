@@ -1,0 +1,4 @@
+DEBUG 2022-05-10 16:34:50,375 - division of 15/5
+DEBUG 2022-05-10 16:34:50,375 - the result is 3.0
+DEBUG 2022-05-10 16:34:50,376 - division of 15/0
+ERROR 2022-05-10 16:34:50,376 - division by zero
